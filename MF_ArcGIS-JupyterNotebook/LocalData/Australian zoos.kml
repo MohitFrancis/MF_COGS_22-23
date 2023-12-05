@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Australian zoos</name>
+    <description/>
+    <Style id="icon-123-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-123-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-123-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Melbourne Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            144.951553,-37.784385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Werribee Open Range Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            144.667132,-37.922518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Healesville Sanctuary</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.531576,-37.682199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ballarat Wildlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            143.891335,-37.569914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halls Gap Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            142.563776,-37.146395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moonlit Sanctuary</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.250823,-38.211496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mansfield Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.130524,-37.127134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kyabram Fauna Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.047383,-36.322508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melbourne Aquarium</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            144.958248,-37.821141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zoo Doo Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            147.375841,-42.706187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longford Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            147.087364,-41.524644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tasmania Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.972523,-41.428763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mogo Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.15667,-35.794216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birdland Animal Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.195052,-35.723808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nowra Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.563765,-34.869173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Symbio Wildlife Gardens</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.969701,-34.20584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Zoo and Aquarium</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            149.06956,-35.299751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tidbinbilla Nature Reserve</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            149.012032,-35.454413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taronga Western Plains Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            148.58614,-32.273817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Altina Wildlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.990126,-34.591954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bredl's Wonder World of Wildlife]]></name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            140.70154,-34.206674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parndana Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            137.263634,-35.780169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adelaide Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.605629,-34.91408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monarto Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.158068,-35.109377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cleland Wildlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.714538,-34.968863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taronga Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.241183,-33.844578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sydney Aquarium and Sydney Wildlife World</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.202034,-33.869952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oceanworld Manly</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.281352,-33.799067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australian Reptile Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.277897,-33.418601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunter Valley Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.363347,-32.795707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blackbutt Reserve</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.698961,-32.932732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Billabong Koala and Wildlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.818859,-31.458851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pet Porpoise Pool</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            153.136282,-30.298722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Featherdale Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.884063,-33.766234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oz.e.Wildlife</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.982822,-36.011582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorge Wildlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.815174,-34.840823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Currumbin Sanctuary</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            153.488381,-28.136145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darling Downs Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.020054,-27.89203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea World</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            153.425531,-27.96014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dreamworld</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            153.315411,-27.863512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lone Pine Koala Sanctuary</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.968547,-27.533714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Brisbane's Alma Park Zoo]]></name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.987409,-27.226328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australia Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.95902,-26.837005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Underwater World</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            153.12175,-26.683096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alice Springs Desert Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            133.832273,-23.705513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alice Springs Reptile Centre</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            133.878,-23.703136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crocodylus Park and Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.927656,-12.411933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Territory Wildlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.989947,-12.710407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perth Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.856023,-31.976356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caversham Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.947164,-31.834764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AQWA</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.737748,-31.826633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hartley's Crocodile Adventures]]></name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.564846,-16.656319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rainforest Habitat</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.462976,-16.526435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cairns Wildlife Safari Reserve</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.570318,-16.901738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cairns Tropical Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.662628,-16.758225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rockhampton Zoo</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.516107,-23.364773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reef HQ</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.822126,-19.257461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Billabong Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.904277,-19.375071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>David Fleay Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            153.442569,-28.107493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenough Wildlife and Bird Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            114.749408,-28.963806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Broome Crocodile Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            122.213067,-17.932948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Swamp Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.631361,-33.339546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wave Rock Wildlife Park</name>
+        <description>Exact location unclear</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            118.868294,-32.448651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cohunu Koala Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.017604,-32.230078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Armadale Reptile Centre</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            116.015024,-32.176757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Park</name>
+        <description>Precise location uncertain</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            113.640904,-26.129588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagles Heritage</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.060587,-33.979346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naturaliste Reptile Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.188711,-33.697744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quindalup Fauna Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.150548,-33.636458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peel Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.863061,-32.604029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Australian Reptile Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.992472,-31.806941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malcolm Douglas Wilderness Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            122.337441,-17.878063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Feathers Sanctuary</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.871396,-12.391221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crocosaurus Cove</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            130.839207,-12.462297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Urimbirra Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.63317,-35.518744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cudgee Creek Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            142.650261,-38.34137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jirrahlinga Koala and Wildlife Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            144.480772,-38.266026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otway Deer and Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            143.155289,-38.691137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phillip Island Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.238614,-38.472776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koala Conservation Centre</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.262153,-38.487104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wildlife Wonderland</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.46871,-38.480755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maru Koala and Animal Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.520836,-38.41841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ace-Hi Ranch and Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            144.894165,-38.432791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonorong Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            147.271385,-42.708489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bicheno Sealife Centre</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            148.298714,-41.872637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wings Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.045036,-41.263808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Coast Natureworld</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            148.255777,-41.838107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trowunna WIldlife Park</name>
+        <styleUrl>#icon-123-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.381836,-41.52503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tasmanian Devil Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            147.862029,-43.063581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Something Wild</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.747732,-42.67988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wagga Wagga Botanical Gardens Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            147.367011,-35.129956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australian Reptile Centre</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            149.083786,-35.191237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koala Park Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.044674,-33.741881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakvale Farm and Fauna World</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.903024,-32.789944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australian Walkabout Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.225262,-33.422308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Potoroo Palace</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            149.830213,-36.852668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cooberrie Park Wildlife Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.686438,-23.031162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daintree Wild Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.404852,-16.317581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australian Butterfly Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.632534,-16.819823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birdworld Kuranda</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.632958,-16.819418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australian Venom Zoo</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.634111,-16.820758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cairns Wildlife Dome</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.779701,-16.924968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bungalow Bay Koala Village</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            146.862252,-19.120872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuranda Koala Gardens</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.632775,-16.823284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterways Wildlife Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            150.202246,-30.984673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dundee's Wildlife Park]]></name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.287286,-35.153615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Australian Shark and Ray Centre (location approximate)</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            151.947098,-32.780311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flying High Bird Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.23918,-25.218802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gumbuya Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.658498,-38.069514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ballarat Bird World</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            143.876889,-37.636707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayles Fauna Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            145.570462,-38.178232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt Rothwell Conservation Interpretation Centre</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            144.436505,-37.89758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alexandra Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.342493,-24.86605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hamilton Botanical Gardens</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            142.023954,-37.746965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reef World</name>
+        <description>Location is approximate</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            152.907554,-25.287986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Big Pineapple</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.990423,-26.672249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humbug Scrub Wildlife Sanctuary</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.830168,-34.702755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snakes Downunder Reptile Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            152.301171,-25.238742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valley Lake Wildlife Park and Boardwalk</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            140.763005,-37.838149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Seahorse Farm</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            138.506538,-34.842857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
