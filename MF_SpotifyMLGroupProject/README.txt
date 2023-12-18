@@ -16,6 +16,4 @@ Main File(s):    		DecisionTree.png				                (A local copy of an image
                     SpotifySongs_GroupProject_MF-MR_ES.rmd  (The written technical report fully describing the project, containing both the live code and the outputs of the various functions.)
             				README.txt							                (This file: describes files in the MF_SpotifyMLGroupProject folder.)
 
-Please read this README.txt before opening anything else.
-
 '''
