@@ -19,7 +19,7 @@ Main File(s):    		BL_POINT_10K.csv		                          (Attribute table 
                     MF_MuseumComparison.sql                       (Complete SQL script which creates tables to store imported CSV data, assigns designations, and creates and exports views.)
                     README.txt							                      (This file: describes files and folders in the MF_MuseumComparison_DataLoad folder.)
 
-Not included due to size: BASE_Buildings_GDB_UT83v6_CGVD2013.gdb  (The original file geodatabase downloaded from the NSTDB website containing the BL Point 10K Layer.)
+Not included due to size: BASE_Buildings_GDB_UT83v6_CGVD2013.gdb  (The original file geodatabase downloaded from the NSTDB website (https://nsgi.novascotia.ca/gdd/) containing the BL Point 10K point layer.)
 
 '''
 
