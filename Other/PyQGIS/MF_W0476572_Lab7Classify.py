@@ -1,5 +1,5 @@
 '''
-Program:    Lab7_Classify_MF_W0476572.py
+Program:    MF_W0476572_Lab7Classify.py
 Programmer: Mohit Francis
 Date:       08 November 2022
 Purpose:    To classify polygons in forestry layer based on selection criteria.

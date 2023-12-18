@@ -1,5 +1,5 @@
 '''
-    Program   : MF_W0476572_placesWorld-2ndSubmission.py
+    Program   : MF_W0476572_placesWorld.py
     Programmer: Mohit Francis
     Date      : 24 November 2022
     Purpose   : PROG 5000: Assignment 2 (2nd Submission) - Load point shapefile as layer.
