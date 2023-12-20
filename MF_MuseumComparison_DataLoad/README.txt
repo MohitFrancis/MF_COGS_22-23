@@ -12,10 +12,10 @@ Main File(s):    		BL_POINT_10K.csv		                          (Attribute table 
                     NSTDB_FEATURECODES.csv                        (Data dictionary converted to CSV format.)
                     vw_hist_buildings.csv                         (The query table / view of Historical Museums exported from Oracle.)
                     vw_exist_buildings.csv                        (The query table / view of Existing Museums exported from Oracle.)
-                    config.ini                                    (Contains the now removed login, password, and database name - information required to initialise ETL.)
+                    config.ini                                    (Contained the now removed login, password, and database name - information required to initialise ETL.)
                     database.py                                   (Creates a connection to Oracle database using credentials contained in config.ini.)
-                    insert_BL_POINT_10K.py                        (Inserts data from BL_POINT_10K.csv	into specified table in Oracle database.)            
-                    insert_NSTDB_FEATURECODES.py                  (Inserts data from NSTDB_FEATURECODES.csv	into specified table in Oracle database.)
+                    insert_BL_POINT_10K.py                        (Inserts data from BL_POINT_10K.csv into specified table in Oracle database.)            
+                    insert_NSTDB_FEATURECODES.py                  (Inserts data from NSTDB_FEATURECODES.csv into specified table in Oracle database.)
                     MF_MuseumComparison.sql                       (Complete SQL script which creates tables to store imported CSV data, assigns designations, and creates and exports views.)
                     README.txt							                      (This file: describes files and folders in the MF_MuseumComparison_DataLoad folder.)
 
